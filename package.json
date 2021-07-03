@@ -1,0 +1,19 @@
+{
+  "name": "bootstrap-wysiwyg",
+  "version": "1.0.0",
+  "description": "Wysiwyg editor",
+  "main": "bootstrap-wysiwyg.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thanford7/bootstrap-wysiwyg.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thanford7/bootstrap-wysiwyg/issues"
+  },
+  "homepage": "https://github.com/thanford7/bootstrap-wysiwyg#readme"
+}
